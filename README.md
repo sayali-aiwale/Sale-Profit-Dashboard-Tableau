@@ -20,8 +20,7 @@ This project is an interactive Tableau dashboard developed to analyze sales and 
 - Generated business insights through visual reports.
 
 ## Dashboard Screenshot
-
-Tableau.png
+tableau.png
 
 ## Project Outcome
 This dashboard enables better understanding of sales performance and supports data-driven decision-making through interactive visualizations.
